@@ -1,6 +1,6 @@
 Hello techies!
 <br /><br />
-      I am Subhikshaa, currently in the pre-final year of Computer Science and Engineering department. I am currently exploring more in the area of web development and learning to build web applications using MERN stack. I believe that building strong foundations in any concept we learn can enhance the overall learning. I am interested in collaborative learning and open for project collaborations!
+      I am Subhikshaa Selvanayagam, currently in the pre-final year of Computer Science and Engineering department. I am currently exploring more in the area of web development and learning to build web applications using MERN stack. I believe that building strong foundations in any concept we learn can enhance the overall learning process. I am interested in collaborative learning and open for project collaborations!
 <br />
 
 ## Programming Languages:
