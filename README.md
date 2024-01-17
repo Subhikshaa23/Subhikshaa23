@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello techies!
+I am Subhikshaa Selvanayagam, currently in the pre-final year of Computer Science and Engineering department. I believe that building strong foundations in any concept we learn can enhance the overall learning. I am currently exploring more in the area of web development and learning to build web applications using MERN stack. I am interested in collaborative learning and open for project collaborations!
 
-<!--
-**Subhikshaa23/Subhikshaa23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programming Languages:
+C Java Python C++ R 
 
-Here are some ideas to get you started:
+Web Technologies:
+HTML5 CSS3 JavaScript TypeScript PHP Servlets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases:
+MySQL MongoDB
+
+Cloud:
+AWS 
+
+
+
