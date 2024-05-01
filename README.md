@@ -1,7 +1,15 @@
-Hello techies!
+<h1 align="center">Hi there👋, I'm Subhikshaa!</h1>
+<h3 align="center">Web Developer | Automation Explorer | Cybersecurity Enthusiast</h3>
 <br /><br />
-      I am Subhikshaa Selvanayagam, currently in the pre-final year of Computer Science and Engineering department. I am currently exploring more in the area of web development and learning to build web applications using MERN stack. I believe that building strong foundations in any concept we learn can enhance the overall learning process. I am interested in collaborative learning and open for project collaborations!
+
+- I am currently exploring more in the area of **Web development** and learning to develop web applications using MERN stack.
+- I love building bots using **UiPath** and and introducing automation in our day-to-day life wherever possible.
+- I am also interested in the field of **Cybersecurity** and have participated in Jeopardy style **CTFs**!
+- I am open to collaborative learning and project collaborations!
+- 
 <br />
+
+<p><i>I believe that building strong foundations in any concept we learn can enhance the overall learning process. Hence learning things, the right way!</i></p>
 
 ## Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -25,14 +33,13 @@ Hello techies!
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br />
 
-## Cloud:
+## Cloud Platform:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-<br />
-
-## Automation:
-![UiPath](https://img.shields.io/badge/uipath-orange?style=for-the-badge)
 <br />
 
 ## Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![UiPath Studio](https://img.shields.io/badge/uipath_studio-orange?style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android_Studio-white?style=for-the-badge&logo=android&labelColor=white)
+
 
