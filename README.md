@@ -8,9 +8,10 @@
 - I am open to collaborative learning and project collaborations!
 
 <br />
-<div class="grid cards" markdown>
 
--   : __Programming languages__
+<div class="grid" markdown>
+
+- __Programming languages__
     ---
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -18,7 +19,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
--   :__Web technologies__
+- __Web technologies__
     ---
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -28,19 +29,21 @@
 ![Servlets](https://img.shields.io/badge/servlets-yellow?style=for-the-badge)
 
 
--   : __Databases__
+- __Databases__
     ---
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
--   : __Cloud platform__
+- __Cloud platform__
     ---
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
--   : __Tools__
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  
+- __Tools__
     ---
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![UiPath Studio](https://img.shields.io/badge/uipath_studio-orange?style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-white?style=for-the-badge&logo=android&labelColor=white)
+
 </div>
 
 
