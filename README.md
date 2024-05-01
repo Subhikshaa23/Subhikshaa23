@@ -3,13 +3,14 @@
 <br /><br />
 
 - I am currently exploring more in the area of **Web development** and learning to develop web applications using MERN stack.
-- I love building bots using **UiPath** and and introducing automation in our day-to-day life wherever possible.
+- I love building bots using **UiPath** and introducing automation in our day-to-day life wherever possible.
 - I am also interested in the field of **Cybersecurity** and have participated in Jeopardy style **CTFs**!
 - I am open to collaborative learning and project collaborations!
 
 <br />
 
-<p><i>I believe that building strong foundations in any concept we learn can enhance the overall learning process. Hence learning things, the right way!</i></p>
+<p><i>I believe that building strong foundations in any concept we learn can enhance the overall learning process.</i></p>
+<p><i>Hence learning things, the right way!</i></p>
 
 ## Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
