@@ -6,7 +6,7 @@
 - I love building bots using **UiPath** and and introducing automation in our day-to-day life wherever possible.
 - I am also interested in the field of **Cybersecurity** and have participated in Jeopardy style **CTFs**!
 - I am open to collaborative learning and project collaborations!
-- 
+
 <br />
 
 <p><i>I believe that building strong foundations in any concept we learn can enhance the overall learning process. Hence learning things, the right way!</i></p>
